@@ -1,2 +1,2 @@
-# synth-se-vocale
+# Synthèse vocale
 Synthèse vocale
